@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+/.next/
+/.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Vite/React/Parcel/Other tool caches
+*.local
+.cache/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+*.tgz
+*.log
+
+# Ignore auto-uploaded images and other large folders (optional)
+auto-upload/Animals/
+auto-upload/Nature/ 
